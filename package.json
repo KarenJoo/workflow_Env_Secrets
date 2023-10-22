@@ -1,0 +1,20 @@
+{
+  "name": "workflow_env_secrets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarenJoo/workflow_Env_Secrets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarenJoo/workflow_Env_Secrets/issues"
+  },
+  "homepage": "https://github.com/KarenJoo/workflow_Env_Secrets#readme"
+}
