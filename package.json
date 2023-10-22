@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KarenJoo/workflow_Env_Secrets/issues"
   },
-  "homepage": "https://github.com/KarenJoo/workflow_Env_Secrets#readme"
+  "homepage": "https://github.com/KarenJoo/workflow_Env_Secrets#readme",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
 }
